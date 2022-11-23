@@ -1,6 +1,6 @@
 # 15 Vanilla JS Projects
 
-1. - [x] [Color Flipper](color_flipper)
+1. - [x] [Color Flipping](color_flipping) - [DEMO](https://color-flipping.netlify.app/)
 2. - [ ] [Counter](counter)
 3. - [ ] [Reviews](reviews)
 4. - [ ] [Navbar](navbar)
@@ -15,6 +15,14 @@
 13. - [ ] [Lorem Ipsum](lorem_ipsum)
 14. - [ ] [Grocery Bud](grocery_bud)
 15. - [ ] [Slider](slider)
+
+<br>
+
+## Previews 🔍
+<details>
+	<summary>Color Flipping 🟩</summary>
+	<img src="./images/color_flipping.png" height=300 alt="website with a green background a title describing the color in hexdecimal and click me button"/>
+</details>
 
 <br>
 <br>
