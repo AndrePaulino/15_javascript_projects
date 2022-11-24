@@ -1,7 +1,7 @@
 # 15 Vanilla JS Projects
 
 1. - [x] [Color Flipping](color_flipping) - [DEMO](https://color-flipping.netlify.app/)
-2. - [ ] [Counter](counter)
+2. - [x] [Plain Counter](plaincounter) - [DEMO](https://plaincounter.netlify.app/)
 3. - [ ] [Reviews](reviews)
 4. - [ ] [Navbar](navbar)
 5. - [ ] [Sidebar](sidebar)
@@ -22,6 +22,11 @@
 <details>
 	<summary>Color Flipping 🟩</summary>
 	<img src="./images/color_flipping.png" height=300 alt="website with a green background a title describing the color in hexdecimal and click me button"/>
+</details>
+<br>
+<details>
+	<summary>Plain Counter 🧮</summary>
+	<img src="./images/plain_counter.png" height=300 alt="website with a dark background a counter and buttons to descrease, reset and increase."/>
 </details>
 
 <br>
