@@ -3,7 +3,7 @@ _opt/**
 style.css
 global.css
 
-fontawesome-free-5.12.0-web
+fontawesome-free-6.2.1-web
 
 video/
 tabs/
@@ -11,7 +11,6 @@ slider/
 sidebar/
 scroll/
 questions/
-navbar/
 modal/
 menu/
 lorem_ipsum/
