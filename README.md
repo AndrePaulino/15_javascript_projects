@@ -3,7 +3,7 @@
 1. - [x] [Color Flipping](color_flipping) - [DEMO](https://color-flipping.netlify.app/)
 2. - [x] [Plain Counter](plaincounter) - [DEMO](https://plaincounter.netlify.app/)
 3. - [x] [Basic Reviews](reviews) - [DEMO](https://basicreviews.netlify.app/)
-4. - [ ] [Navbar](navbar)
+4. - [x] [Shrink Navbar](shrink_navbar) - [DEMO](https://shrinknavbar.netlify.app/)
 5. - [ ] [Sidebar](sidebar)
 6. - [ ] [Modal](modal)
 7. - [ ] [Questions](questions)
@@ -26,14 +26,18 @@
 <br>
 <details>
 	<summary>Plain Counter 🧮</summary>
-	<img src="./images/plain_counter.png" height=300 alt="website with a dark background a counter and buttons to descrease, reset and increase."/>
+	<img src="./images/plain_counter.png" height=200 alt="website with a dark background a counter and buttons to descrease, reset and increase."/>
 </details>
 <br>
 <details>
 	<summary>Basic Reviews ⭐</summary>
 	<img src="./images/basic_reviews.png" height=300 alt="website with a light background a profile image, name, job and a fake review"/>
 </details>
-
+<br>
+<details>
+	<summary>Shrink Navbar 🧭</summary>
+	<img src="./images/shrink_navbar.png" height=250 alt="website with a dark background and a title shrink to burger navbar"/>
+</details>
 <br>
 <br>
 
