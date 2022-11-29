@@ -170,7 +170,6 @@ main {
 body {
 	background: var(--clr-grey-1);
 	color: var(--clr-white);
-
 }
 
 h1 {
@@ -207,7 +206,6 @@ nav {
 .logo {
 	height: 3rem;
 	width: 3rem;
-	color: aliceblue;
 	background-image: url(./logo.svg);
 	background-repeat: no-repeat;
 	background-position: center;
