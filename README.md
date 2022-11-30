@@ -5,7 +5,7 @@
 3. - [x] [Basic Reviews](reviews) - [DEMO](https://basicreviews.netlify.app/)
 4. - [x] [Shrink Navbar](shrink_navbar) - [DEMO](https://shrinknavbar.netlify.app/)
 5. - [x] [Sidebar Collapse](sidebar_collapse) - [DEMO](https://sidebarcollapse.netlify.app/)
-6. - [ ] [Modal](modal)
+6. - [x] [Basic Modal](basic_modal) - [DEMO](https://basicmodal.netlify.app/)
 7. - [ ] [Questions](questions)
 8. - [ ] [Menu](menu)
 9. - [ ] [Video](video)
