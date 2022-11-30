@@ -4,7 +4,7 @@
 2. - [x] [Plain Counter](plaincounter) - [DEMO](https://plaincounter.netlify.app/)
 3. - [x] [Basic Reviews](reviews) - [DEMO](https://basicreviews.netlify.app/)
 4. - [x] [Shrink Navbar](shrink_navbar) - [DEMO](https://shrinknavbar.netlify.app/)
-5. - [ ] [Sidebar](sidebar)
+5. - [x] [Sidebar Collapse](sidebar_collapse) - [DEMO](https://sidebarcollapse.netlify.app/)
 6. - [ ] [Modal](modal)
 7. - [ ] [Questions](questions)
 8. - [ ] [Menu](menu)
@@ -38,6 +38,12 @@
 	<summary>Shrink Navbar 🧭</summary>
 	<img src="./images/shrink_navbar.png" height=250 alt="website with a dark background and a title shrink to burger navbar"/>
 </details>
+<br>
+<details>
+	<summary>Sidebar Collapse ↔️</summary>
+	<img src="./images/sidebar_collapse.png" height=250 alt="website with a dark background and a vertical navbar"/>
+</details>
+
 <br>
 <br>
 
