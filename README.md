@@ -43,6 +43,11 @@
 	<summary>Sidebar Collapse ↔️</summary>
 	<img src="./images/sidebar_collapse.png" height=250 alt="website with a dark background and a vertical navbar"/>
 </details>
+<br>
+<details>
+	<summary>Simple Modal ❕</summary>
+	<img src="./images/simple_modal.png" height=250 alt="website with a living room background, a banner saying 'modal project' and a open modal button"/>
+</details>
 
 <br>
 <br>
