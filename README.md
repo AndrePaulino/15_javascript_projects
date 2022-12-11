@@ -6,8 +6,8 @@
 4. - [x] [Shrink Navbar](shrink_navbar) - [DEMO](https://shrinknavbar.netlify.app/)
 5. - [x] [Sidebar Collapse](sidebar_collapse) - [DEMO](https://sidebarcollapse.netlify.app/)
 6. - [x] [Basic Modal](basic_modal) - [DEMO](https://basicmodal.netlify.app/)
-7. - [ ] [Questions](questions)
-8. - [ ] [Menu](menu)
+7. - [x] [Basic FAQ](basic_faq) - [DEMO](https://basicfaq.netlify.app/)
+8. - [x] [Diner Menu](diner_menu) - [DEMO](https://dinermenu.netlify.app/)
 9. - [ ] [Video](video)
 10. - [ ] [Scroll](scroll)
 11. - [ ] [Tabs](tabs)
@@ -47,6 +47,16 @@
 <details>
 	<summary>Simple Modal ❕</summary>
 	<img src="./images/simple_modal.png" height=250 alt="website with a living room background, a banner saying 'modal project' and a open modal button"/>
+</details>
+<br>
+<details>
+	<summary>Basic FAQ ❔</summary>
+	<img src="./images/basic_faq.png" height=250 alt="website with a dark background, a tile of 'frequently asked questions' and white boxes for the questions"/>
+</details>
+<br>
+<details>
+	<summary>Diner Menu 🍴</summary>
+	<img src="./images/diner_menu.png" height=250 alt="website with a light background, a title saying 'our menu' buttons for the meals categories and a list the items"/>
 </details>
 
 <br>
