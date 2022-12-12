@@ -58,6 +58,11 @@
 	<summary>Diner Menu 🍴</summary>
 	<img src="./images/diner_menu.png" height=250 alt="website with a light background, a title saying 'our menu' buttons for the meals categories and a list the items"/>
 </details>
+<br>
+<details>
+	<summary>Dune Video ▶️</summary>
+	<img src="./images/dune_video.png" height=250 alt="website with a background of a dune and a title saying 'house atreides on dune'"/>
+</details>
 
 <br>
 <br>
