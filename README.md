@@ -8,7 +8,7 @@
 6. - [x] [Basic Modal](basic_modal) - [DEMO](https://basicmodal.netlify.app/)
 7. - [x] [Basic FAQ](basic_faq) - [DEMO](https://basicfaq.netlify.app/)
 8. - [x] [Diner Menu](diner_menu) - [DEMO](https://dinermenu.netlify.app/)
-9. - [ ] [Video](video)
+9. - [x] [Dune Video](dune_video) - [DEMO](https://dunevideo.netlify.app/)
 10. - [ ] [Scroll](scroll)
 11. - [ ] [Tabs](tabs)
 12. - [ ] [Countdown Timer](countdown_timer)
