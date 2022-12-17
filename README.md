@@ -9,7 +9,7 @@
 7. - [x] [Basic FAQ](basic_faq) - [DEMO](https://basicfaq.netlify.app/)
 8. - [x] [Diner Menu](diner_menu) - [DEMO](https://dinermenu.netlify.app/)
 9. - [x] [Dune Video](dune_video) - [DEMO](https://dunevideo.netlify.app/)
-10. - [ ] [Scroll](scroll)
+10. - [x] [Smooth Travels](smooth_travels) - [DEMO](https://smoothtravels.netlify.app/)
 11. - [ ] [Tabs](tabs)
 12. - [ ] [Countdown Timer](countdown_timer)
 13. - [ ] [Lorem Ipsum](lorem_ipsum)
@@ -62,6 +62,11 @@
 <details>
 	<summary>Dune Video ▶️</summary>
 	<img src="./images/dune_video.png" height=250 alt="website with a background of a dune and a title saying 'house atreides on dune'"/>
+</details>
+<br>
+<details>
+	<summary>Smooth Travels 🗺️</summary>
+	<img src="./images/smooth_travels.png" height=250 alt="website with a background of a mountainous and a sticky navigation menu"/>
 </details>
 
 <br>
