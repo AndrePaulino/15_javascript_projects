@@ -11,7 +11,7 @@
 9. - [x] [Dune Video](dune_video) - [DEMO](https://dunevideo.netlify.app/)
 10. - [x] [Smooth Travels](smooth_travels) - [DEMO](https://smoothtravels.netlify.app/)
 11. - [x] [About Tabs](about_tabs) - [DEMO](https://abouttabs.netlify.app/)
-12. - [ ] [Countdown Timer](countdown_timer)
+12. - [x] [Giveaway Countdown](giveaway_countdown) - [DEMO](https://giveawaycountdown.netlify.app/)
 13. - [ ] [Lorem Ipsum](lorem_ipsum)
 14. - [ ] [Grocery Bud](grocery_bud)
 15. - [ ] [Slider](slider)
@@ -62,6 +62,10 @@
 <details>
 	<summary>About Tabs 📑</summary>
 	<img src="./images/about_tabs.png" height=250 alt="about us page with image of a team working and tabs titled, "history, vision, goals"/>
+</details>
+<details>
+	<summary>Giveaway Countdown 🎁</summary>
+	<img src="./images/giveaway_countdown.png" height=250 alt="image of apple product, "apple giveaway" title, with a countdown in days, hours, minutes and seconds"/>
 </details>
 
 <br>
